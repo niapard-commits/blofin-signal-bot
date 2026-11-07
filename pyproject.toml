@@ -1,0 +1,15 @@
+[project]
+name = "blofin-signal-bot"
+version = "0.1.0"
+description = "Telegram signal -> parse -> validate -> size -> BloFin futures order"
+requires-python = ">=3.10"
+# The core (parser / validation / sizing / exchange client) is pure standard library
+# on purpose: it is fully unit-testable without network, exchange keys or Telegram.
+# Only the Telegram layer (bot.py, listen.py) needs these two packages.
+dependencies = ["telethon>=1.36", "python-dotenv>=1.0"]
+
+[tool.setuptools]
+packages = ["signalbot"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
