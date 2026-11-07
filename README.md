@@ -212,3 +212,7 @@ are disabled in that mode. Start with a small allocation (`/alloc 1`) and watch 
 ## Disclaimer
 This is software, not financial advice. Futures trading with leverage can lose more than you expect, quickly.
 You are responsible for any use of it. No warranty (see LICENSE).
+
+---
+
+**Need a Telegram signal or trading bot?** Order or ask a question via [my Fiverr gig](https://www.fiverr.com/serhii_bots/build-a-custom-python-telegram-bot).
