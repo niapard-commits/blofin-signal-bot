@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 <p align="center"><img src="docs/demo.gif" width="760" alt="A price typo in a signal is refused: the entry is about 90% away from the live price"></p>
+<p align="center"><a href="docs/demo.mp4"><b>▶ Watch the 60-second demo video</b></a></p>
 
 Portfolio project built to a real Upwork job post (fixed price, $500). 129 tests; verified on the BloFin demo exchange.
 
