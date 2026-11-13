@@ -216,4 +216,4 @@ You are responsible for any use of it. No warranty (see LICENSE).
 
 ---
 
-**Need a Telegram signal or trading bot?** Order or ask a question via [my Fiverr gig](https://www.fiverr.com/serhii_bots/build-a-custom-python-telegram-bot).
+
